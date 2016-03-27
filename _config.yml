@@ -1,13 +1,28 @@
-layout_spectrum: 0.9292073
-typography_spectrum: 1
-color:
-  saturation: 0.7780231
-  lightness: 0.4121864
-  brandStrength: 0.7060932
-  brandColors:
-    - '#CEC4B2'
-    - '#F1EADE'
-    - '#5D8A79'
-    - '#E88827'
-  rhythmicContrast: 0.4659498
 name: Cizl
+favicon: null
+layout_spectrum: 0.57914
+typography_spectrum: 1
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#2a304b'
+    - '#346567'
+    - '#000c12'
+    - '#a82927'
+    - '#c87d7b'
+  brandStrength: 0.625
+  lightness: 0.4121864
+  saturation: 0.7780231
+  rhythmicContrast: 0.4659498
+purpose: []
