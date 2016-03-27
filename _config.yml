@@ -1,9 +1,7 @@
-favicon: null
 name: Cizl
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.57914
+typography_spectrum: 1
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.374552
-  brandStrength: 0.625
-  lightness: 0.7903226
   brandColors:
     - '#2a304b'
     - '#346567'
     - '#000c12'
     - '#a82927'
     - '#c87d7b'
+  brandStrength: 0
+  lightness: 0.7903226
+  saturation: 0.374552
   rhythmicContrast: 0.4659498
-typography_spectrum: 1
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.57914
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+purpose: []
