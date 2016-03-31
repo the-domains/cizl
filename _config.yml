@@ -1,6 +1,6 @@
 name: Cizl
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.52441
 typography_spectrum: 0.51325
 collections:
   - index:
@@ -36,5 +36,5 @@ color:
   brandStrength: 0
   lightness: 0.125
   saturation: 0
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0
 purpose: []
