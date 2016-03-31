@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Cizl]]></title>
         <description><![CDATA[Cizl]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cizl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 08:59:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 31 Mar 2016 09:00:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cizl/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Create an account or log into Facebook. Connect with friends, family and other people you know. Share photos and videos, send messages and get updates." src="https://www.facebook.com/images/fb_icon_325x325.png">]]></description>
+            <link>https://www.facebook.com/</link>
+            <guid isPermaLink="false">5b5897fb-f0d0-4111-ae32-c107e522ac41</guid>
+            <pubDate>Thu, 31 Mar 2016 08:59:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>glagol</p>]]></description>
-            <link>undefinedglagol/index.html</link>
+            <link>https://thegrid.ai/cizl/glagol/index.html</link>
             <guid isPermaLink="false">2d33d237-e38a-491b-b1e3-06477e3ad81d</guid>
             <pubDate>Thu, 31 Mar 2016 08:59:43 GMT</pubDate>
         </item>
